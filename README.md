@@ -1,5 +1,5 @@
 # Power-BI
-Projects
+Power BI Project where I imported a dataset answering the following business questions:
 
 Which month and year had the most profit?
 
