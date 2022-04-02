@@ -1,5 +1,5 @@
 # Power-BI
-Power BI Project where I imported a dataset then visualized the data answering the following business questions:
+Power BI Project where I imported a dataset, cleaned and transformed the data, then visualized the results answering the following business questions:
 
 Which month and year had the most profit?
 
